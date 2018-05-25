@@ -1,0 +1,24 @@
+{
+  "name": "types-kurento-client-elements",
+  "version": "6.6.1",
+  "description": "Type definitions for kurento-client-elements",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givo/types-kurento-client-elements-js.git"
+  },
+  "keywords": [
+    "kurento",
+    "types",
+    "typescript"
+  ],
+  "author": "Matan Givoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/givo/types-kurento-client-elements-js/issues"
+  },
+  "homepage": "https://github.com/givo/types-kurento-client-elements-js#readme"
+}
